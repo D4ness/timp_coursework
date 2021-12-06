@@ -77,6 +77,24 @@ body{
     background: rgba(241, 238, 238, 0.9);
     border-radius: 15px;
 }
-.search div{
-    margin: 0 ;
+
+/*Последние варианты*/
+.options-tittle{
+    font-size: 44px;
+    margin: 85px 0;
+    text-align: center;
+}
+.options{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.option{
+    margin: 0px 40px 80px;
+    width: 380px;
+    height: 530px;
+}
+.option-description{
+    background-color: #CFCFCF;
+
 }
